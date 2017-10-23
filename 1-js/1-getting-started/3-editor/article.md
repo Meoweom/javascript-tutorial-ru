@@ -40,7 +40,7 @@
 
 Достойны внимания:
 
-- <a href="http://www.sublimetext.com/">Sublime Text</a> (кросс-платформенный, shareware).
+- <a href="http://www.sublimetext.com/">Sublime Text</a> (кросс-платформенный, shareware, лучший).
 - <a href="https://atom.io/">Atom</a> (кросс-платформенный, free).
 - <a href="http://www.scintilla.org/">SciTe</a> простой, легкий и очень быстрый (Windows, бесплатный).
 - <a href="http://sourceforge.net/projects/notepad-plus/">Notepad++</a> (Windows, бесплатный).
